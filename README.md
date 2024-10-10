@@ -1,4 +1,4 @@
-# VoiceGPT
+# VoiceAi
 
 Steps to run this project
 
